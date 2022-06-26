@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+    box-sizing: border-box;
+    
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#container {
+    margin: 0px auto;
+    padding: 200px;
+    
+    width: 1000px;
+}
+
+.calculater {
+    width: 400px;
+}
+
+input {
+    width: 100%;
+    height: 80px;
+}
+
+.section {
+
+}
+
+.enter_group{
+    width: 100%;
+    display: flex;
+}
+
+.enter_group button{
+    width: 200px;
+    height: 40px;
+}
+
+.number_btn1{
+    display: flex;
+}
+
+.number_btn1 button {
+    width: 100px;
+    height: 50px;
+}
+
+.number_btn2{
+    display: flex;
+}
+
+.number_btn2 button {
+    width: 100px;
+    height: 50px;
+}
+
+
+.number_btn3{
+    display: flex;
+}
+
+.number_btn3 button {
+    width: 100px;
+    height: 50px;
+}
+
+.number_btn4{
+    display: flex;
+}
+
+.num7, .opearate4 {
+    width: 150px;
+    height: 50px;
+}
+
+.opearate5 {
+    width: 100px;
+    height: 50px;
+}
